@@ -1,7 +1,7 @@
 {
     "name": "HTML5 Boilerplate",
     "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "url": "https://github.com/aldryn/aldryn-html5-boilerplate",
     "templates": [
         ["content.html", "content"]
