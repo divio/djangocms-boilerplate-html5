@@ -1,14 +1,16 @@
 {
     "name": "HTML5 Boilerplate",
     "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "url": "https://github.com/aldryn/aldryn-html5-boilerplate",
     "templates": [
         ["content.html", "content"]
     ],
     "protected": [
         "templates/base.html",
-        "static/css/normalize.css"
+        "static/css/normalize.css",
+        "static/js/vendor/jquery-1.10.2.min.js",
+        "static/js/vendor/modernizr-2.6.2.min.js"
     ],
     "author": {
         "name": "Divio",
