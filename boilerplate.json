@@ -1,22 +1,14 @@
 {
-    "name": "HTML5 Boilerplate",
-    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
-    "version": "0.0.7",
-    "url": "https://github.com/aldryn/aldryn-html5-boilerplate",
+    "identifier": "bootstrap3",
+    "package-name": "aldryn-bootstrap3-boilerplate",
+    "version": "0.0.8",
     "templates": [
         ["content.html", "content"]
     ],
     "protected": [
         "templates/base.html",
         "static/css/normalize.css",
-        "static/js/vendor/jquery-1.10.2.min.js",
-        "static/js/vendor/modernizr-2.6.2.min.js"
-    ],
-    "author": {
-        "name": "Divio",
-        "url": "https://www.aldryn.com"
-    },
-    "license": {
-        "name": "MIT"
-    }
+        "static/js/vendor/jquery-1.11.2.min.js",
+        "static/js/vendor/modernizr-2.8.3.min.js"
+    ]
 }
