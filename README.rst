@@ -17,8 +17,8 @@ This boilerplate is compatible with `Aldryn <http://www.aldryn.com/>`_.
     `base.css` and `base.html`.
 
 
-Autodetected Files
-------------------
+Auto Detected Files
+-------------------
 
 Files that are currently detected within the root of a website such as ``humans.txt`` or ``crossdomain.xml`` are
 currently not supported by Aldryn. They are still integrated within this boilerplate and will work as soon as
@@ -30,4 +30,4 @@ Documentation
 
 You can find additional documentation on the django CMS within the `Aldryn Bootstrap Boilerplate
 <https://aldryn-boilerplate-bootstrap3.readthedocs.org>`_ or the `django CMS Documentation
-<https://django-cms.readthedocs.org>`_
+<https://django-cms.readthedocs.org>`_.
