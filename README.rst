@@ -11,6 +11,11 @@ Up to date with `HTML5 Boilerplate <http://html5boilerplate.com/>`_ **5.1.0**.
 
 This boilerplate is compatible with `Aldryn <http://www.aldryn.com/>`_.
 
+.. note::
+
+    In order to work with the Aldryn system, `main.css` and `index.html` needed to be renamed to
+    `base.css` and `base.html`.
+
 
 Autodetected Files
 ------------------
