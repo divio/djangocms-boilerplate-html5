@@ -1,6 +1,6 @@
 {
-    "identifier": "bootstrap3",
-    "package-name": "aldryn-bootstrap3-boilerplate",
+    "identifier": "html5-boilerplate",
+    "package-name": "aldryn-html5-boilerplate",
     "version": "0.0.8",
     "templates": [
         ["content.html", "content"]
