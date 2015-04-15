@@ -1,8 +1,8 @@
 {% extends "base.html" %}
-{% load i18n cms_tags %}
+{% load cms_tags %}
 
-{% block extend_base %}
-    {% block content %}
-        {% placeholder content %}
-    {% endblock content %}
-{% endblock extend_base %}
+{% block content %}
+    {% placeholder content or %}
+        <p>Hello world! This is HTML5 Boilerplate.</p>
+    {% endplaceholder %}
+{% endblock content %}
