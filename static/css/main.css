@@ -1,4 +1,4 @@
-/*! HTML5 Boilerplate v5.1.0 | MIT License | https://html5boilerplate.com/ */
+/*! HTML5 Boilerplate v5.3.0 | MIT License | https://html5boilerplate.com/ */
 
 /*
  * What follows is the result of much research on cross-browser styling.
@@ -116,7 +116,7 @@ textarea {
    ========================================================================== */
 
 /*
- * Hide visually and from screen readers:
+ * Hide visually and from screen readers
  */
 
 .hidden {
@@ -197,6 +197,7 @@ textarea {
 
 @media print,
        (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 1.25dppx),
        (min-resolution: 120dpi) {
     /* Style adjustments for high resolution devices */
 }
@@ -210,7 +211,9 @@ textarea {
 @media print {
     *,
     *:before,
-    *:after {
+    *:after,
+    *:first-letter,
+    *:first-line {
         background: transparent !important;
         color: #000 !important; /* Black prints faster:
                                    http://www.sanbeiji.com/archives/953 */
