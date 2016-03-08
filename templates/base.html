@@ -1,4 +1,4 @@
-{% load static i18n cms_tags sekizai_tags %}
+{% load static i18n cms_tags menu_tags sekizai_tags %}
 {# latest version from 5.3.0 https://html5boilerplate.com/ #}
 <!doctype html>
 <html class="no-js" lang="{{ LANGUAGE_CODE }}">
@@ -29,6 +29,9 @@
         <![endif]-->
 
         <!-- Add your site or application content here -->
+        <ul>
+            {% show_menu 0 0 100 100 %}
+        </ul>
         {% block content %}
             <p>Hello world! This is HTML5 Boilerplate.</p>
         {% endblock %}
