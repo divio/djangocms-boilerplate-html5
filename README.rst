@@ -13,8 +13,8 @@ This boilerplate is compatible with `Aldryn <http://www.aldryn.com/>`_.
 
 .. note::
 
-    In order to work with the Aldryn system, `main.css` and `index.html` needed to be renamed to
-    `base.css` and `base.html`.
+    In order to work with django CMS, `index.html` has been renamed to
+    `base.html` and assets have been moved to the `static/` folder.
 
 
 Auto Detected Files
