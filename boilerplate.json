@@ -5,5 +5,10 @@
     "templates": [
         ["content.html", "content"]
     ],
-    "protected": []
+    "excluded": [
+        ".gitattributes",
+        ".htaccess",
+        "LICENSE.txt",
+        "*.rst"
+    ]
 }
