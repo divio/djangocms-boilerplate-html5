@@ -1,5 +1,5 @@
-Aldryn HTML5 Boilerplate
-========================
+django CMS HTML5 Boilerplate
+============================
 
 The web’s most popular front-end template.
 
@@ -9,7 +9,7 @@ all in one little package.
 
 Up to date with `HTML5 Boilerplate <http://html5boilerplate.com/>`_ **5.3.0**.
 
-This boilerplate is compatible with `Aldryn <http://www.aldryn.com/>`_.
+This boilerplate is compatible with `Divio Cloud <http://www.divio.com/>`_.
 
 .. note::
 
@@ -21,13 +21,13 @@ Auto Detected Files
 -------------------
 
 Files that are currently detected within the root of a website such as ``humans.txt`` or ``crossdomain.xml`` are
-currently not supported by Aldryn. They are still integrated within this boilerplate and will work as soon as
+currently not supported by Divio. They are still integrated within this boilerplate and will work as soon as
 the feature is available.
 
 
 Documentation
 -------------
 
-You can find additional documentation on the django CMS within the `Aldryn Bootstrap Boilerplate
+You can find additional documentation on the django CMS within the `Divio Bootstrap 3 Boilerplate
 <https://aldryn-boilerplate-bootstrap3.readthedocs.org>`_ or the `django CMS Documentation
 <https://django-cms.readthedocs.org>`_.
