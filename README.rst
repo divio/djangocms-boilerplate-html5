@@ -1,5 +1,5 @@
-django CMS HTML5 Boilerplate
-============================
+HTML5 Boilerplate
+=================
 
 The web’s most popular front-end template.
 
