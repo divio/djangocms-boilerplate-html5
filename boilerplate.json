@@ -1,7 +1,7 @@
 {
     "identifier": "html5",
     "package-name": "html5-boilerplate",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "templates": [
         ["content.html", "content"]
     ],
