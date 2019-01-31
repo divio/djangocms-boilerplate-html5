@@ -8,7 +8,7 @@ The web’s most popular front-end template.
 and adaptable web apps or sites. Kick-start your project with the combined
 knowledge and effort of 100s of developers, all in one little package.
 
-Up to date with `HTML5 Boilerplate <http://html5boilerplate.com/>`_ **5.3.0**.
+Up to date with `HTML5 Boilerplate <http://html5boilerplate.com/>`_ **6.1.0**.
 
 This boilerplate is compatible with `Divio Cloud <http://www.divio.com/>`_.
 

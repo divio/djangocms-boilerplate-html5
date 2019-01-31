@@ -1,14 +1,8 @@
 {
     "identifier": "html5",
     "package-name": "html5-boilerplate",
-    "version": "1.0.5",
+    "version": "6.1.0",
     "templates": [
         ["content.html", "content"]
-    ],
-    "excluded": [
-        ".gitattributes",
-        ".htaccess",
-        "LICENSE.txt",
-        "*.rst"
     ]
 }
