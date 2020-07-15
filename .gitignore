@@ -21,6 +21,7 @@ Thumbs.db
 /.env
 /.env-local
 .aldryn
+.divio
 /data
 /data.tar.gz
 /static_collected
